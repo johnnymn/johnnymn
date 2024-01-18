@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Johnny! 👋
 
-<!--
-**johnnymn/johnnymn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer specializing in backend systems and infrastructure. With a knack for creating robust and scalable solutions, I bring to the table an extensive background in developer tools, data infrastructure, and IoT.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- **Languages:** Python, Go, SQL.
+- **Infrastructure:** AWS, Kubernetes, Terraform, CI/CD pipelines.
+- **Frameworks & Libraries:** Kopf, Boto3, Mlflow, Seldon, Spark, Ray.io.
+- **Tools & Technologies:** JupyterHub, Superset, Querybook.
+- **Databases:** PostgreSQL, Redshift, InfluxDB, Trino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently working on
+- Data Infra.
+- DevOps
+- MLOps
+
+## 📚 Learning
+- Digital circuit design/verification
+
+## 📩 Contact Me
+Feel free to reach out for collaborations or just for a chat!
+- 🔗 LinkedIn: [johnnymn](https://www.linkedin.com/in/johnnymn)
